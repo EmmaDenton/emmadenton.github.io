@@ -26,8 +26,11 @@ THEN I find a concise, descriptive title
 ```
 
 ## Changes Made
+
+```
 Changed HTML elements to semantic naming conventions. 
 Updated CSS to use corresponding names where class was not present.
 Added alt text to images.
 Put heading attributes in seqential order.
 Added a title.
+```
